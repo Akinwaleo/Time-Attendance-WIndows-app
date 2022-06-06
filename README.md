@@ -1,2 +1,2 @@
 # Time-Attendance-WIndows-app
-Windows app o log manage Staff office attandance
+Windows app to log manage Staff office attandance
